@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:javaee="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <servlet>
+    <servlet-name>entity</servlet-name>
+    <servlet-class>servlet.entity</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>entity</servlet-name>
+    <url-pattern>/entity.do</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>result</servlet-name>
+    <servlet-class>util.result</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>result</servlet-name>
+    <url-pattern>/result.do</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,54 @@
+body
+{
+   background-color:#CCCCCC;
+   color:#000000;
+}
+   
+.protein
+{
+	color:#0000FF; 
+}
+.DNA
+{
+	color:#00FF00;  
+}
+.RNA
+{
+	color:#CC0000; 
+}
+.virus
+{
+	color:#FF00CC; 
+}
+.cell_type
+{
+	color:#FF9900; 
+}
+.cell_line
+{
+	color:#993399; 
+}
+   
+div#legend {
+color: #000000;
+padding: 0.5em;
+border: 1px solid silver;
+line-height: 1.75em;
+margin: 1em 0em;
+}
+
+div#legend ul {
+  display: inline;
+	list-style-type: none;
+	padding: 0.2em;
+	margin-left: 0.2em;
+	text-align: left;
+}
+
+div#legend li {
+	margin-left: 0.3em;
+	margin-right: 0.8em;	
+	text-decoration: none;
+	font-weight: bold;
+	display: inline;
+}
