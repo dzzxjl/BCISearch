@@ -5,7 +5,7 @@ BCISeach: A Searching Platform of Breast Cancer Text Mining for Biomedical Liter
 > Gong L, Yang R, **Yang H**, et al. BCISeach: a searching platform of breast cancer text mining for biomedical literature[C]//Semantics, Knowledge and Grids (SKG), 2016 12th International Conference on. IEEE, 2016: 158-161.
 
 ### 主要模块
-- 文献在线实体识别，
+- 文献在线实体识别
 - 实体搜索
 - 实体展示
 - 语料下载
