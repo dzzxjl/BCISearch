@@ -1,4 +1,4 @@
-# BCISearch
+# BCISearch——Breast Cancer Information Search
 BCISeach: A Searching Platform of Breast Cancer Text Mining for Biomedical Literature
 
 ### PUBLICATIONS
@@ -9,6 +9,18 @@ BCISeach: A Searching Platform of Breast Cancer Text Mining for Biomedical Liter
 - 实体搜索
 - 实体展示
 - 语料下载
+
+### Menu
+* Home
+* Static Information
+ * show entity
+ * Search For an entity
+ * Search by PMID
+* Dynamic Information
+* Entity Recognition
+* Document
+* Corpus
+* About
 
 ### 项目总结
 - 了解并学习自然语言处理与数据挖掘相关内容
@@ -37,6 +49,7 @@ BCISeach: A Searching Platform of Breast Cancer Text Mining for Biomedical Liter
 * 显示的protein，dna,rna等数目不对（希望显示的是berminer和abner共同识别的）
 * 200000篇文章线性关系的展示
 * 文章语法关系的算法
+
 ### 其他
 * 使用花生壳来进行外网映射
 * 
